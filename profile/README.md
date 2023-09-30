@@ -2,7 +2,7 @@
   <img width="460" height="300" src="https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github/assets/78773029/f90d7f2f-1d96-4333-9637-3b988f92104e">
 </p>
 
-# ISL - INTELLIGENT SYSTEMS GROUP
+# ISL - INTELLIGENT SYSTEMS LAB
 The vision of the Intelligent Systems Laboratory (ISL) is to solve problems in use-inspired 
 Artificial Intelligence and Cybersecurity. ISL provides an experimental environment for 
 development, modeling and testing using advanced approaches. The ISL is part of the 
