@@ -14,11 +14,10 @@ engaged in high quality research in intelligent systems and Cybersecurity.
 >
 > Always follow CBYU (Check Before You Upload)
 
-<br><br>
-
 ## Projects
 ![image](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github/assets/78773029/efac4010-804a-4615-9c40-f6eb3be3d6d6)
 
+<br><br>
 
 ### GitHub SOP (Standard Operating Procedure)
 Download Here: [GitHub_SOP.docx](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github/files/12774045/GitHub_SOP.docx)
