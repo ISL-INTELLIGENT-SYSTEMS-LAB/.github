@@ -8,12 +8,13 @@ Artificial Intelligence and Cybersecurity. ISL provides an experimental environm
 development, modeling and testing using advanced approaches. The ISL is part of the 
 Department of Mathematics and Computer Science and its faculty and student members are 
 engaged in high quality research in intelligent systems and Cybersecurity.
-<br><br>
 
 > [!IMPORTANT]
 > Never put SECRET/TOP SECRET data in a repository.
 >
 > Always follow CBYU (Check Before You Upload)
+
+<br><br>
 
 ## Projects
 ![image](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github/assets/78773029/efac4010-804a-4615-9c40-f6eb3be3d6d6)
