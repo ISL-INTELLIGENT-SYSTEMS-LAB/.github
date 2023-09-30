@@ -11,8 +11,7 @@ engaged in high quality research in intelligent systems and Cybersecurity.
 <br><br>
 
 ## Projects
-![image](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github/assets/78773029/13ff8dc9-5db9-4a53-a883-97abcb245c85)
-
+![image](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github/assets/78773029/efac4010-804a-4615-9c40-f6eb3be3d6d6)
 
 
 ### GitHub SOP (Standard Operating Procedure)
