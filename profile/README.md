@@ -21,8 +21,7 @@ engaged in high quality research in intelligent systems and Cybersecurity.
 
 
 ### GitHub SOP (Standard Operating Procedure)
-Download Here: [GitHub_SOP.docx](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github/files/12773848/GitHub_SOP.docx)
-
+Download Here: [GitHub_SOP.docx](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github/files/12774045/GitHub_SOP.docx)
 
 ### Team Members
 >[!NOTE]
