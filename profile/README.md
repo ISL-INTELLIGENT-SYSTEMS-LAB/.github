@@ -24,7 +24,7 @@ Download Here: [GitHub_SOP.docx](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/
 <details>
 
 <summary>Team</summary>
-- Leviticus Lintag
+Leviticus Lintag
 - Nathan Couch
 - Oumar Toure
 - Carley Brinkley
@@ -65,7 +65,7 @@ Download Here: [GitHub_SOP.docx](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/
 <details>
 
 <summary>Possible new members</summary>
-- Anita Amofah
+Anita Amofah
 - Richard Jeffery
 - Dayanna Carroll
 - Zachary Delaney
@@ -75,7 +75,7 @@ Download Here: [GitHub_SOP.docx](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/
 <details>
   
 <summary>Lab Alumni / Past members</summary>
-- Jack Santini
+Jack Santini
 - Gabriel Schwinghammer
 - Nathaniel Meshaw
 - Raymond Kimble
