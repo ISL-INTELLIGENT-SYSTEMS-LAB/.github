@@ -21,8 +21,8 @@ Download Here: [GitHub_SOP.docx](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/
 ### Team Members
 >[!NOTE]
 > This information may not be up-to-date, but it will be updated periodically.
-<details>
 
+<details>
 <summary>Team</summary>
 Leviticus Lintag
 - Nathan Couch
@@ -60,20 +60,18 @@ Leviticus Lintag
 - Michael Backus
 - Grace Vincent
 - Ethan Patten
-
 </details>
-<details>
 
+<details>
 <summary>Possible new members</summary>
 Anita Amofah
 - Richard Jeffery
 - Dayanna Carroll
 - Zachary Delaney
-- Carrington Pearson 
-
+- Carrington Pearson
 </details>
+
 <details>
-  
 <summary>Lab Alumni / Past members</summary>
 Jack Santini
 - Gabriel Schwinghammer
@@ -92,12 +90,11 @@ Jack Santini
 - Da'shawn Morris
 - Edward Stephens
 - Melvin Bartell
-- Gabriel Ohmes 
+- Gabriel Ohmes
 - Khali Crawford
 - Ahad Qureshi
 - Kalsoom Bibi
 - Taryn Rozier
 - Timothy Crumel
 - Aniyah Little
-
 </details>
