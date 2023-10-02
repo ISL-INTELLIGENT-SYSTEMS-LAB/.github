@@ -14,6 +14,9 @@ engaged in high quality research in intelligent systems and Cybersecurity.
 
 <br><br>
 
+### GitHub Student Developer Pack
+https://education.github.com/pack
+
 ### GitHub SOP (Standard Operating Procedure)
 Download Here: [GitHub_SOP.docx](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github/files/12774045/GitHub_SOP.docx)
 
