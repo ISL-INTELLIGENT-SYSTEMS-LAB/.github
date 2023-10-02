@@ -14,6 +14,10 @@ engaged in high quality research in intelligent systems and Cybersecurity.
 
 <br><br>
 
+### For Team Leaders
+If you run into any problems importing your teams repos let me know at tbrown145@broncos.uncfsu.edu and I will help you figure it out.
+https://docs.github.com/en/migrations/importing-source-code/using-github-importer/importing-a-repository-with-github-importer
+
 ### GitHub Student Developer Pack
 https://education.github.com/pack
 
