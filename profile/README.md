@@ -10,7 +10,8 @@ Department of Mathematics and Computer Science and its faculty and student membe
 engaged in high quality research in intelligent systems and Cybersecurity.
 
 ## Projects
-![image](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github/assets/78773029/efac4010-804a-4615-9c40-f6eb3be3d6d6)
+![image](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github/assets/78773029/72ed5709-c44e-4b4c-9d47-fb62bd17aabb)
+
 
 <br><br>
 
