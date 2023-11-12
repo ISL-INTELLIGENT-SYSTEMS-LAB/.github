@@ -44,16 +44,13 @@ Leviticus Lintag
 - Ashley Sutherland
 - Eric Griep
 - Raymond Poythress
-- Jevida Owens
 - Tivon Brown
 - Givante Lewis
 - Jesse Claiborne
-- Jonathan Golden
 - Santino Sini
 - Shereiff Garrett
 - Toby White
 - Ahsza Strange
-- David Hawkins
 - Luis Hernandez
 - Jeremy Graves
 - Tyuss Handley
@@ -61,9 +58,9 @@ Leviticus Lintag
 - Catherine Spooner
 - Ronpeter Pintac-Divinagracia
 - Taylor Brown
-- Ramsey McCue
 - Matthew Wilkerson
 - Paul Rodriguez
+- Zachary Delaney
 - Michael Backus
 - Grace Vincent
 - Ethan Patten
@@ -71,10 +68,10 @@ Leviticus Lintag
 
 <details>
 <summary>Possible new members</summary>
-Anita Amofah
+Lucinky Lucien
+- Anita Amofah
 - Richard Jeffery
 - Dayanna Carroll
-- Zachary Delaney
 - Carrington Pearson
 </details>
 
@@ -104,4 +101,8 @@ Jack Santini
 - Taryn Rozier
 - Timothy Crumel
 - Aniyah Little
+- Jevida Owens
+- Jonathan Golden
+- David Hawkins
+- Ramsey McCue
 </details>
