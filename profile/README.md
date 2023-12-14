@@ -31,78 +31,15 @@ Download Here: [GitHub_SOP.docx](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/
 
 <details>
 <summary>Team</summary>
-Leviticus Lintag
-- Nathan Couch
-- Oumar Toure
-- Carley Brinkley
-- Laura DeSantis
-- Natalie Griffin
-- Adriel Alvarez-Collazo
-- Antonio Ball
-- Ryan De Jesus
-- Garrett Davis
-- Ashley Sutherland
-- Eric Griep
-- Raymond Poythress
-- Tivon Brown
-- Givante Lewis
-- Jesse Claiborne
-- Santino Sini
-- Shereiff Garrett
-- Toby White
-- Ahsza Strange
-- Luis Hernandez
-- Jeremy Graves
-- Tyuss Handley
-- Bryce Herring
-- Catherine Spooner
-- Ronpeter Pintac-Divinagracia
-- Taylor Brown
-- Matthew Wilkerson
-- Paul Rodriguez
-- Zachary Delaney
-- Michael Backus
-- Grace Vincent
-- Ethan Patten
+![image](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github/assets/78773029/c82ba66a-8b7e-4c39-96ca-cba565893df0)
 </details>
 
 <details>
 <summary>Possible new members</summary>
-Lucinky Lucien
-- Anita Amofah
-- Richard Jeffery
-- Dayanna Carroll
-- Carrington Pearson
+![image](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github/assets/78773029/c344a776-96c4-4096-b849-33577c97d9bf)
 </details>
 
 <details>
 <summary>Lab Alumni / Past members</summary>
-Jack Santini
-- Gabriel Schwinghammer
-- Nathaniel Meshaw
-- Raymond Kimble
-- William Evans
-- Roxanna Chambers
-- Jonathan Soltren
-- Deneen Royal
-- David Riddy
-- Daniel Bigler
-- Joshua Adams
-- Daniel Rundell
-- Kyle Schultz
-- Antwaun Tune
-- Da'shawn Morris
-- Edward Stephens
-- Melvin Bartell
-- Gabriel Ohmes
-- Khali Crawford
-- Ahad Qureshi
-- Kalsoom Bibi
-- Taryn Rozier
-- Timothy Crumel
-- Aniyah Little
-- Jevida Owens
-- Jonathan Golden
-- David Hawkins
-- Ramsey McCue
+![image](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github/assets/78773029/af0ebfc3-2dda-427d-bb7b-b6244d15ed92)
 </details>
