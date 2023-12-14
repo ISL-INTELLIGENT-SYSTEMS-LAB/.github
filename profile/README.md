@@ -31,15 +31,18 @@ Download Here: [GitHub_SOP.docx](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/
 
 <details>
 <summary>Team</summary>
+
 ![image](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github/assets/78773029/c82ba66a-8b7e-4c39-96ca-cba565893df0)
 </details>
 
 <details>
 <summary>Possible new members</summary>
+  
 ![image](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github/assets/78773029/c344a776-96c4-4096-b849-33577c97d9bf)
 </details>
 
 <details>
 <summary>Lab Alumni / Past members</summary>
+  
 ![image](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github/assets/78773029/af0ebfc3-2dda-427d-bb7b-b6244d15ed92)
 </details>
