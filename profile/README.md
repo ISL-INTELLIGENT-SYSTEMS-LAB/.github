@@ -25,6 +25,8 @@ https://education.github.com/pack
 ### GitHub SOP (Standard Operating Procedure)
 Download Here: [GitHub_SOP.docx](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github/files/12774045/GitHub_SOP.docx)
 
+⭐[Walkthough of team management and pull/merge protections](https://learntheweb.courses/courses/web-dev-6/github-project-setup/)
+
 ### Team Members
 >[!NOTE]
 > This information may not be up-to-date, but it will be updated periodically.
