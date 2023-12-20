@@ -13,6 +13,7 @@ engaged in high quality research in intelligent systems and Cybersecurity.
 ![image](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github-private/assets/78773029/ed59ae76-d984-4c41-9638-a2e4f8f230b5)
 
 
+
 <br><br>
 
 ### For Team Leaders
@@ -23,7 +24,10 @@ https://docs.github.com/en/migrations/importing-source-code/using-github-importe
 https://education.github.com/pack
 
 ### GitHub SOP (Standard Operating Procedure)
-Download Here: [GitHub_SOP.docx](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github/files/12774045/GitHub_SOP.docx)
+Download Here: 
+* [GitHub_SOP.docx](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github/files/12774045/GitHub_SOP.docx) 
+* [Pull and Merge requests With Branch Protection.docx](https://github.com/ISL-INTELLIGENT-SYSTEMS-LAB/.github-private/files/13731676/Pull.and.Merge.requests.With.Branch.Protection.docx)
+
 
 ⭐[Walkthough of team management and pull/merge protections](https://learntheweb.courses/courses/web-dev-6/github-project-setup/)
 ⭐[Help with GitHub Markdown](https://pandao.github.io/editor.md/en.html)
